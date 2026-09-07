@@ -233,3 +233,6 @@ This repository serves as the official landing page for **AltStore Installer**. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AltStore Installer today!**
+
+---
+**Last updated:** 2026-09-07 09:51:38 UTC
